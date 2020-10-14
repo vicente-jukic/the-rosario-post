@@ -34,8 +34,7 @@ body {
     margin-right: 0;
     display: inline;
     padding-right: 0;
-    height: auto;
-    width: 60px;
+
 }
 
 .Nav-Bar-Container {
@@ -148,19 +147,19 @@ body {
 }
 /* Main Article */ 
 
-.container {
+.Container {
     width:60%;
     margin: 50px auto 0 auto;
     border: dotted gray;
     background-color: #f8f9fa;
 }
 
-.container img{
+.Container img{
     width:100% ;
     
 }
 
-.container figcaption{
+.Container figcaption{
     position: static;
     border-bottom: 5px solid #0076ba;
     color: #0a0a0a;
